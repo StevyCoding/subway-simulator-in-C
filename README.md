@@ -1,8 +1,12 @@
-NONO WOMDIM Steve Merlvyn 3A-31
-HAJJAR Wided 3A-31
+Only on linux
 
-Pour executer : 
+to execute : 
 
 make clean
 make
 make run
+
+preview :
+
+
+![](aperçu/2021-07-06 09_26_13-Window.png)
